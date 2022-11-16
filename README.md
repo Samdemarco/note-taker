@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
   Here is a GIF of Note Taker application working:
-![Team Profile Generator](README_Note_Taker.GIF)
+![Team Profile Generator](README_Note_Taker.gif)
 
 ## Heroku Deployment Link:
 
