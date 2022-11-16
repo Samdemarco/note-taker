@@ -1,4 +1,4 @@
-<h1>10 11 Express.js: Note Taker </h1>
+<h1>11 Express.js: Note Taker </h1>
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
